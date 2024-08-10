@@ -1,0 +1,6 @@
+{
+    "configuration": "PSRAM=opi,FlashMode=qio,FlashSize=4M,LoopCore=1,EventsCore=1,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "OhStem:esp32:yolo_uno",
+    "port": "COM11",
+    "sketch": "ESP32_web_sever.ino"
+}
